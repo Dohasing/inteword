@@ -1,7 +1,8 @@
 # inteword
-![Русский]([https://github.com](https://github.com/Dohasing/inteword/blob/main/README.md)) ![English](https://github.com)
 
-![Official Python](https://www.python.org/) ![Forks](https://github.com/Dohasing/inteword/forks) ![Licence](https://github.com/Dohasing/inteword?tab=MIT-1-ov-file)
+[![Русский](https://raw.githubusercontent.com/Dohasing/inteword/main/assets/rus.png)](https://github.com/Dohasing/inteword/blob/main/README.md)
+[![English](https://raw.githubusercontent.com/Dohasing/inteword/main/assets/eng.png)](https://github.com/Dohasing/inteword/blob/main/README.en.md)
+[![Official Python](https://raw.githubusercontent.com/Dohasing/inteword/main/assets/python.png)](https://www.python.org/)
 
 **Bypassing DPI systems and bypassing whitelists in WHITE-LIST mode (for MacOS and Linux)**
 + инструкция:
